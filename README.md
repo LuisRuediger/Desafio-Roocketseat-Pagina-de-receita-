@@ -1,4 +1,4 @@
-# Desafio Roocketseat "Pagina de receita"
+# Desafio Rocketseat "Pagina de receita"
 
 
 https://luisruediger.github.io/Desafio-Roocketseat-Pagina-de-receita-/
